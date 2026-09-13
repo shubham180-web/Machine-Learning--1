@@ -67,7 +67,7 @@ try:
 
     model = joblib.load(
         "Random_heart.pkl")
-    )
+    
 
     scaler = joblib.load(
         "scaler.pkl"
